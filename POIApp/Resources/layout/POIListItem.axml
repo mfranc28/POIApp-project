@@ -34,7 +34,7 @@
             p1:id="@+id/addrTextView"
             p1:layout_width="match_parent"
             p1:layout_height="wrap_content"
-            p1:textSize="14SP" />
+            p1:textSize="14dp" />
     </LinearLayout>
     <TextView
         p1:text="204 miles"
