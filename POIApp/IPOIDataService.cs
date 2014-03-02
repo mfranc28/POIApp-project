@@ -10,6 +10,7 @@ namespace POIApp
 		PointOfInterest GetPOI (int id);
 		void SavePOI(PointOfInterest poi);
 		void DeletePOI(PointOfInterest poi);
+	
 	}
 }
 
